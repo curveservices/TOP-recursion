@@ -1,6 +1,6 @@
 # Exercise: TOP-recursion
 
-## Live Demo 👉  [Exercise recursion](https://github.com/curveservices/TOP-recursion)
+## Live Demo 👉  [Exercise recursion](https://curveservices.github.io/TOP-recursion/)
 
 ## PC View 👇
 ![Screenshot 2023-10-11 at 12 22 38](https://github.com/curveservices/TOP-recursion/assets/101556296/a8212301-fce0-4624-8a45-56c57c170eee)
